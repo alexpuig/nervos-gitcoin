@@ -1,4 +1,4 @@
 # Task 0
 
-![Node](node.jpg)
-![Indexer](indexer.jpg)
+![Node](node.png)
+![Indexer](indexer.png)
